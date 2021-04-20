@@ -7,6 +7,8 @@ const submitBtn = document.querySelector('.submit-btn');
 const container = document.querySelector('.grocery-container');
 const list = document.querySelector('.grocery-list');
 const clearBtn = document.querySelector('.clear-btn');
+const form2 = document.querySelector('.grocery-form');
+
 // edit option
 let editElement;
 let editFlag = false;
